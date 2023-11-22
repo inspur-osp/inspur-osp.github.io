@@ -1,6 +1,6 @@
 # LATIS iOS APP分发渠道
-
-# 须知warning
+[English](./README_en.md)
+# 须知
 
 - 请务必使用release的方式发布新的版本，不要随意修改根目录下的文件
 - 请务必将release中ipa文件的名称修改为`WFM.ipa`
