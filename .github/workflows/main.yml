@@ -27,9 +27,11 @@ jobs:
         server_port: 587
         username: ${{ secrets.EMAIL_USERNAME }}
         password: ${{ secrets.EMAIL_PASSWORD }}
-        subject: Download URL Status
+        from: 846162223@qq.com
+        to: me@lhxone.com,liuhaoxin@inspur.com
+        subject: LATIS iOS New Version
         body: |
-          Dear Latis Maintainers:
+          Dear LATIS Maintainers:
           
           The Latis iOS App released a new version.
           URL: https://github.com/latisinspur/latisinspur.github.io/releases
@@ -38,4 +40,3 @@ jobs:
           
           From GitHub Action
 
-        to: me@lhxone.com
