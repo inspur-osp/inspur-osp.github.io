@@ -1,5 +1,9 @@
 # LATIS iOS APP Distribution Channel
 
+[![pages-build-deployment](https://github.com/latisinspur/latisinspur.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/latisinspur/latisinspur.github.io/actions/workflows/pages/pages-build-deployment)
+
+[中文](./README.md)
+
 # Notice 
 
 - Please be sure to use the release method to release a new version, and do not modify files in the root directory at will.
