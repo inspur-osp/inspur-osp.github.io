@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/latisinspur/latisinspur.github.io/releases/latest/download/WFM.ipa</string>
+                        <string>https://github.com/latisinspur/inspur-osp.github.io/releases/latest/download/OSP.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -19,19 +19,19 @@
                         <key>needs-shine</key>
                         <false/>
                         <key>url</key>
-                        <string>https://latisinspur.github.io/logo.png</string>
+                        <string>https://inspur-osp.github.io/logo.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.inspur.obd.aps</string>
+                    <string>com.inspur.osp</string>
                     <key>bundle-version</key>
                     <string>100</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>WFM</string>
+                    <string>OSP-APP</string>
                 </dict>
             </dict>
         </array>
